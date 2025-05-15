@@ -3,7 +3,7 @@
 
 ## Overview :
 
-The ["Reality Check"](https://huggingface.co/spaces/khanaabidabdal/RealityCheck) application is designed to classify images of faces as either real or AI-generated. Utilizing the ResNet50 model, our classifier achieves up to 95% accuracy. This repository provides an overview of the application, detailed results from experiments, and future scope for enhancements.
+The ["Image Detector"](https://huggingface.co/spaces/NizamuddinMandekar/ImageDetector) application is designed to classify images of faces as either real or AI-generated. Utilizing the ResNet50 model, our classifier achieves up to 95% accuracy. This repository provides an overview of the application, detailed results from experiments, and future scope for enhancements.
 
 ## Introduction :
 
@@ -11,7 +11,7 @@ This research addresses the growing concern of the misuse of generative technolo
 
 ## User Interface :
 
-The user interface (UI) of the "Reality Check" application is designed to be intuitive and user-friendly, allowing users to easily classify images of faces as either real or AI-generated.
+The user interface (UI) of the "Image Detector" application is designed to be intuitive and user-friendly, allowing users to easily classify images of faces as either real or AI-generated.
 
 ## Important Guidelines :
 
@@ -78,9 +78,6 @@ Real-Time Application: Enhance the model for real-time classification.
 Broader Application: Extend capabilities to detect other AI-generated content.
 
 Ethical and Legal Considerations: Research ethical and legal implications of AI-generated content detection.
-
-## Submission to Discover Artificial Intelligence
-This research has been submitted to the journal Discover Artificial Intelligence through Springer Nature, highlighting its significance and contribution to the field of AI.
 
 ## References
 Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems 27 (2014).
